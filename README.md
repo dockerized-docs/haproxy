@@ -1,6 +1,6 @@
 # dockerized-docs-haproxy
 
-# What is it?#
+# What is it?
 Dockerzied HAProxy documentation for offline use.
 
 # Image description #
